@@ -1,0 +1,8 @@
+{
+  "color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+  "open_tasks_bullet": "[ ]", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — ≡ → › | [ ]
+  "done_tasks_bullet": "[x]", // options: + | ✓ | ✔ | √ | [x]
+  "font_size": 10,
+  "spell_check": false,
+  "indent_after_task": false // indenting the next line after tasks
+}

@@ -1,0 +1,38 @@
+{
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"AlignTab",
+		"Browser Integration",
+		"CTags",
+		"Gist",
+		"Git",
+		"Git Config",
+		"LaTeX Word Count",
+		"LaTeXTools",
+		"LiveStyle",
+		"ModernPerl",
+		"Open URL",
+		"PlainTasks",
+		"PowerShell",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-frosted",
+		"SublimeLinter-contrib-perl",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep257",
+		"SublimeLinter-perlcritic",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Terminal",
+		"Vagrant"
+	],
+	"repositories":
+	[
+		"https://github.com/oschwald/SublimeLinter-perlcritic"
+	]
+}
