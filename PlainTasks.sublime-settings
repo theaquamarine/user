@@ -1,5 +1,5 @@
 {
-  "color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
+  "color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
   "open_tasks_bullet": "[ ]", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — ≡ → › | [ ]
   "done_tasks_bullet": "[x]", // options: + | ✓ | ✔ | √ | [x]
   "font_size": 10,
